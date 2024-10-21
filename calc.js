@@ -6,7 +6,7 @@
  * @return the result of a - b
  */
 function substract(a,b){
-    return a-b
+    return a-b;
 }
 
 /**
